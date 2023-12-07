@@ -14,7 +14,7 @@
 формате (5 бит), а y – это x+7 (5 бит). Например, ваш номер 22, значит:
 x = 1 0 1 1 0, y = 1 1 1 0 1
 
-<img src="img6.png">
+<img src="img6.PNG">
 
 1. Выведите получившуюся последовательность на экран.
 2. Сделайте поэлементный циклический сдвиг последовательности и
@@ -41,12 +41,12 @@ autocorr() для вычисления соответствующих корре
 
 
 #### Пример работы программы
-<img src="img1.png">
+<img src="img1.PNG">
 
-<img src="img2.png">
+<img src="img2.PNG">
 
-<img src="img3.png">
+<img src="img3.PNG">
 
-<img src="img4.png">
+<img src="img4.PNG">
 
-<img src="img5.png">
+<img src="img5.PNG">
